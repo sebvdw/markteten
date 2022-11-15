@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.app {
+  background-color: #FAFBFC;
+}
+.ambient-text {
+  color: #323B4B;
+}
+input {
+    outline: none;
+  }
+textarea {
+  outline: none;
+  resize: none;
+}
+input[type="checkbox"]{
+  outline: none;
+}
